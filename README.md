@@ -39,10 +39,10 @@ To install and run Starlker, follow these steps:
 
 ![st](https://github.com/flameprogrammer/stalker/assets/95016996/5a25459a-8c36-4cb6-8baf-26279334746e)
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-##Contact
+## Contact
 For any inquiries or feedback, please contact https://x.com/flameprogrammer
 
-Happy Scanning!
+# Happy Scanning!
